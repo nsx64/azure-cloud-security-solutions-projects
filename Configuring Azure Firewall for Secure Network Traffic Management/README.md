@@ -3,6 +3,8 @@
 ## Overview
 This project demonstrates the configuration of Azure Firewall to control inbound and outbound traffic, enhancing network security. The setup involves creating a secure network architecture with custom routing and firewall rules.
 
+## Azure Firewall Diagram Architecture
+![Azure Firewall Diagram Architecture](images/firewall_diagram.png)
 
 ## Deployment
 
